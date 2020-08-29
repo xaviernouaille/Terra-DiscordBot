@@ -1,6 +1,7 @@
 # Terra-DiscordBot
 
 * Un bot discord qui à pour but de faire du scrapping pour récupérer des offres d'emplois
+* Une fois le bot en ligne, toutes les 24h une notification est envoyée informant des offres du jours pour le poste de Developpeur
 
 ## Commande
 
