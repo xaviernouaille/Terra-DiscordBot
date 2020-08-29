@@ -22,7 +22,7 @@ npm run dev
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/68466322/91641294-a9b22200-ea23-11ea-89c6-50019c5cc0a3.png)
+![image](https://user-images.githubusercontent.com/68466322/91641855-504bf200-ea27-11ea-92b3-eb7d8c015cdc.png)
 
 
 ## Author
