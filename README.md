@@ -2,7 +2,7 @@
 
 ## Fonctionnalité
 
-- Envoi des offres d'emploi sur un channel Discord
+- Envoi des offres d'emploi de la journée sur un channel Discord
 
 ## Commande
 
