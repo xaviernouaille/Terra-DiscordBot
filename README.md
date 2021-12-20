@@ -1,7 +1,8 @@
 # Terra-DiscordBot
 
-* Un bot discord qui à comme fonction le scraping d'offres d'emploi.
-* Une fois le bot en ligne, une notification est envoyée à intervale de 24h, renvoyant les offres parue à ce jour
+## Fonctionnalité
+
+- Envoi des offres d'emploi sur un channel Discord
 
 ## Commande
 
